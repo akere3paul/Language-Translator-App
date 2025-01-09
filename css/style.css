@@ -38,7 +38,7 @@ body {
   align-items: center;
   justify-content: center;
   color: var(--text-color);
-  background-color: var(--bg-color);
+  background-color: blue;
 }
 
 body.dark {
@@ -60,7 +60,7 @@ body.dark {
   flex: 1;
   padding: 30px;
   border-radius: 20px;
-  background-color: var(--light-bg-color);
+  background-color: black;
 }
 
 .container .card .from,
